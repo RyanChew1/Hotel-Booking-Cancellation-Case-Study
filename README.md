@@ -1,8 +1,5 @@
 # Hotel-Booking-Cancellation-Case-Study
 
-# **Project - Classification and Hypothesis Testing: Hotel Booking Cancellation Prediction**
-
-
 ---------------
 ## **Problem Statement**
 
